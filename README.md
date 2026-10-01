@@ -1,3 +1,3 @@
-# TERM-TOKNE
+# TERM-TOKEN
 
 Placeholder. Contents TBD.
